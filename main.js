@@ -87,7 +87,8 @@ function ssGo() {
         "igetintopc.com",
         "www.sadeempc.com",
         "haxnode.net",
-        "www.crackingcity.com"
+        "www.crackingcity.com",
+        "www.dayanzai.me"
     ];
 
     website.forEach(function (element) {
